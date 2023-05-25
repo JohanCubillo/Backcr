@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Backcr/static/css/main.f365dca2.css",
+    "main.js": "/Backcr/static/js/main.e8505926.js",
+    "static/js/787.f030b51d.chunk.js": "/Backcr/static/js/787.f030b51d.chunk.js",
+    "static/media/back.png": "/Backcr/static/media/back.c35e65d3ce7c23cec1ef.png",
+    "static/media/insta.png": "/Backcr/static/media/insta.42c20aec6fa7337c01ce.png",
+    "static/media/contact.png": "/Backcr/static/media/contact.e5e30c8ce14b3f8fa8e1.png",
+    "static/media/spoti.png": "/Backcr/static/media/spoti.0b012e997b6a988e08ec.png",
+    "static/media/slick.svg": "/Backcr/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Backcr/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Backcr/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Backcr/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Backcr/index.html",
+    "main.f365dca2.css.map": "/Backcr/static/css/main.f365dca2.css.map",
+    "main.e8505926.js.map": "/Backcr/static/js/main.e8505926.js.map",
+    "787.f030b51d.chunk.js.map": "/Backcr/static/js/787.f030b51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f365dca2.css",
+    "static/js/main.e8505926.js"
+  ]
+}
